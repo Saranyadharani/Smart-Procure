@@ -1,62 +1,73 @@
-# 🏭 Smart Procure - Smart Procurement System
+# Welcome to your Lovable project
 
-![SMart Procure](https://img.shields.io/badge/InventoryAI-Smart_Procurement-blue)
-![Hackathon](https://img.shields.io/badge/Hackathon-Dev_Arena_2024-orange)
-![React](https://img.shields.io/badge/React-18.2+-61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6)
+## Project info
 
-A comprehensive inventory management and smart procurement system built for manufacturing units during SRM Easwari Engineering's 24-hour Dev Arena Hackathon.
+**URL**: https://lovable.dev/projects/a3d8db52-0a53-4bdf-be6c-4a64a8a5e4bf
 
-## 🎯 Problem Statement
-**Smart Procurement in Factories & Real-time Material Price Insights**
+## How can I edit this code?
 
-Traditional inventory management systems lack intelligent decision-making capabilities for procurement, leading to inefficient supplier selection and increased operational costs.
+There are several ways of editing your application.
 
-## 💡 Solution
-InventoryAI transforms inventory management with AI-powered procurement insights, real-time supplier comparisons, and intelligent reordering recommendations.
+**Use Lovable**
 
-## ✨ Features
+Simply visit the [Lovable Project](https://lovable.dev/projects/a3d8db52-0a53-4bdf-be6c-4a64a8a5e4bf) and start prompting.
 
-### 📊 Smart Dashboard
-- Real-time inventory overview
-- Stock level monitoring with visual indicators
-- Automated reorder suggestions
+Changes made via Lovable will be committed automatically to this repo.
 
-### 🔗 Supplier Management
-- Complete supplier database with performance tracking
-- Component-supplier relationship mapping
-- Supplier rating system (1-4 stars)
+**Use your preferred IDE**
 
-### 💰 Intelligent Procurement
-- **Multi-factor supplier scoring**: Price (40%), Lead Time (30%), Rating (30%)
-- Best supplier recommendations
-- Potential savings calculations
-- Real-time price comparisons
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-### 📦 Inventory Optimization
-- Automated stock level alerts (Critical/Low/In Stock)
-- Smart reorder quantity calculations
-- Historical data tracking
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-## 🛠️ Tech Stack
+Follow these steps:
 
-- **Frontend**: React 18 + TypeScript
-- **Styling**: Tailwind CSS + Shadcn/ui
-- **Backend**: Supabase (PostgreSQL)
-- **Database**: Real-time PostgreSQL with Row Level Security
-- **Deployment**: Vercel
-- **Icons**: Lucide React
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
-## 🚀 Quick Start
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
-### Prerequisites
-- Node.js 18+ 
-- npm or yarn
-- Supabase account
+# Step 3: Install the necessary dependencies.
+npm i
 
-### Installation
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/inventory-ai.git
-cd inventory-ai
+**Edit a file directly in GitHub**
+
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
+
+**Use GitHub Codespaces**
+
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
+
+## What technologies are used for this project?
+
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
+## How can I deploy this project?
+
+Simply open [Lovable](https://lovable.dev/projects/a3d8db52-0a53-4bdf-be6c-4a64a8a5e4bf) and click on Share -> Publish.
+
+## Can I connect a custom domain to my Lovable project?
+
+Yes, you can!
+
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
