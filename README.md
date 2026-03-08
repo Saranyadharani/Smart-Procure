@@ -15,8 +15,7 @@ Traditional inventory management systems lack intelligent decision-making capabi
 ## 💡 Solution
 SmartProcure transforms inventory management with AI-powered procurement insights, real-time supplier comparisons, and intelligent reordering recommendations.
 
-## Try this out : https://smart-procure-inventory.vercel.app/
-
+## Try this out : 
 ## ✨ Features
 
 ### 📊 Smart Dashboard
