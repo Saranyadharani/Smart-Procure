@@ -1,4 +1,4 @@
-<img width="898" height="668" alt="image" src="https://github.com/user-attachments/assets/35575d20-042a-4e3c-8e24-5bba612aa0dc" /># 🏭 SmartProcure - AI-Powered Inventory Management System
+# 🏭 SmartProcure - AI-Powered Inventory Management System
 
 ![SmartProcure](https://img.shields.io/badge/SmartProcure-AI_Procurement-blue)
 ![Hackathon](https://img.shields.io/badge/Hackathon-Dev_Arena_2024-orange)
@@ -15,7 +15,7 @@ Traditional inventory management systems lack intelligent decision-making capabi
 ## 💡 Solution
 SmartProcure transforms inventory management with AI-powered procurement insights, real-time supplier comparisons, and intelligent reordering recommendations.
 
-## Try this out : 
+## Try this out : https://smart-procure-inventory.vercel.app/
 ## ✨ Features
 
 ### 📊 Smart Dashboard
